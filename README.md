@@ -4,5 +4,6 @@
 * @Transactional contrainer will intercep call methos of @Service class (just print out text)
 * @PostContruct method that annotate will get call after intialized bean completed.
 * @AutoWired autowire bean like Spring
+
 #### Usage
     see demo code in framework-client
