@@ -5,8 +5,8 @@
  */
 package th.co.geniustree.internship.framework.client;
 
-import th.co.geniustree.internship.framework.Service;
-import th.co.geniustree.internship.framework.Transactional;
+import th.co.geniustree.internship.framework.annotation.Service;
+import th.co.geniustree.internship.framework.annotation.Transactional;
 
 /**
  *

@@ -5,9 +5,9 @@
  */
 package th.co.geniustree.internship.framework.client;
 
-import th.co.geniustree.internship.framework.AutoWired;
-import th.co.geniustree.internship.framework.PostConstruct;
-import th.co.geniustree.internship.framework.Service;
+import th.co.geniustree.internship.framework.annotation.AutoWired;
+import th.co.geniustree.internship.framework.annotation.PostConstruct;
+import th.co.geniustree.internship.framework.annotation.Service;
 
 /**
  *
